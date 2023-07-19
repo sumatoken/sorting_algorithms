@@ -1,5 +1,5 @@
-CMakeFiles/SortingAlgorithms.dir/test_bubble_sort.c.o: \
-  /Users/xmta/Desktop/ALX/sorting_algorithms/test_bubble_sort.c \
+CMakeFiles/SortingAlgorithms.dir/tests/test_bubble_sort.c.o: \
+  /Users/xmta/Desktop/ALX/sorting_algorithms/tests/test_bubble_sort.c \
   /Users/xmta/Desktop/ALX/sorting_algorithms/sort.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include/stdio.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include/_stdio.h \

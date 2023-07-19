@@ -10,7 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/xmta/Desktop/ALX/sorting_algorithms/0-bubble_sort.c" "CMakeFiles/SortingAlgorithms.dir/0-bubble_sort.c.o" "gcc" "CMakeFiles/SortingAlgorithms.dir/0-bubble_sort.c.o.d"
   "/Users/xmta/Desktop/ALX/sorting_algorithms/main.c" "CMakeFiles/SortingAlgorithms.dir/main.c.o" "gcc" "CMakeFiles/SortingAlgorithms.dir/main.c.o.d"
-  "/Users/xmta/Desktop/ALX/sorting_algorithms/test_bubble_sort.c" "CMakeFiles/SortingAlgorithms.dir/test_bubble_sort.c.o" "gcc" "CMakeFiles/SortingAlgorithms.dir/test_bubble_sort.c.o.d"
+  "/Users/xmta/Desktop/ALX/sorting_algorithms/tests/test_bubble_sort.c" "CMakeFiles/SortingAlgorithms.dir/tests/test_bubble_sort.c.o" "gcc" "CMakeFiles/SortingAlgorithms.dir/tests/test_bubble_sort.c.o.d"
   "/Users/xmta/Desktop/ALX/sorting_algorithms/utils.c" "CMakeFiles/SortingAlgorithms.dir/utils.c.o" "gcc" "CMakeFiles/SortingAlgorithms.dir/utils.c.o.d"
   )
 

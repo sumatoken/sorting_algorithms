@@ -177,29 +177,29 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortingAlgorithms.dir/build.make CMakeFiles/SortingAlgorithms.dir/main.c.s
 .PHONY : main.c.s
 
-test_bubble_sort.o: test_bubble_sort.c.o
-.PHONY : test_bubble_sort.o
+tests/test_bubble_sort.o: tests/test_bubble_sort.c.o
+.PHONY : tests/test_bubble_sort.o
 
 # target to build an object file
-test_bubble_sort.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortingAlgorithms.dir/build.make CMakeFiles/SortingAlgorithms.dir/test_bubble_sort.c.o
-.PHONY : test_bubble_sort.c.o
+tests/test_bubble_sort.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortingAlgorithms.dir/build.make CMakeFiles/SortingAlgorithms.dir/tests/test_bubble_sort.c.o
+.PHONY : tests/test_bubble_sort.c.o
 
-test_bubble_sort.i: test_bubble_sort.c.i
-.PHONY : test_bubble_sort.i
+tests/test_bubble_sort.i: tests/test_bubble_sort.c.i
+.PHONY : tests/test_bubble_sort.i
 
 # target to preprocess a source file
-test_bubble_sort.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortingAlgorithms.dir/build.make CMakeFiles/SortingAlgorithms.dir/test_bubble_sort.c.i
-.PHONY : test_bubble_sort.c.i
+tests/test_bubble_sort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortingAlgorithms.dir/build.make CMakeFiles/SortingAlgorithms.dir/tests/test_bubble_sort.c.i
+.PHONY : tests/test_bubble_sort.c.i
 
-test_bubble_sort.s: test_bubble_sort.c.s
-.PHONY : test_bubble_sort.s
+tests/test_bubble_sort.s: tests/test_bubble_sort.c.s
+.PHONY : tests/test_bubble_sort.s
 
 # target to generate assembly for a file
-test_bubble_sort.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortingAlgorithms.dir/build.make CMakeFiles/SortingAlgorithms.dir/test_bubble_sort.c.s
-.PHONY : test_bubble_sort.c.s
+tests/test_bubble_sort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortingAlgorithms.dir/build.make CMakeFiles/SortingAlgorithms.dir/tests/test_bubble_sort.c.s
+.PHONY : tests/test_bubble_sort.c.s
 
 utils.o: utils.c.o
 .PHONY : utils.o
@@ -240,9 +240,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... test_bubble_sort.o"
-	@echo "... test_bubble_sort.i"
-	@echo "... test_bubble_sort.s"
+	@echo "... tests/test_bubble_sort.o"
+	@echo "... tests/test_bubble_sort.i"
+	@echo "... tests/test_bubble_sort.s"
 	@echo "... utils.o"
 	@echo "... utils.i"
 	@echo "... utils.s"
