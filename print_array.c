@@ -1,17 +1,5 @@
-#include "sort.h"
-
-/**
- * swap - a function that swaps two integers
- * @a: first integer
- * @b: second integer
- * Return: void
- */
-void swap(int *a, int *b)
-{
-	int temp = *a;
-	*a = *b;
-	*b = temp;
-}
+#include <stdlib.h>
+#include <stdio.h>
 
 /**
  * print_array - Prints an array of integers
